@@ -22,3 +22,12 @@ subscription-manager attach --auto
 imran.cse.kuet@gmail.com
 nopass
 ```
+
+* GNOME GUI or KDE
+```sh
+su -
+yum groupinstall "X Window System" "KDE Desktop"  [KDE]
+yum groupinstall "X Window System" Desktop        [GNOME]
+```
+
+
