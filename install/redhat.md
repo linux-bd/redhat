@@ -1,9 +1,9 @@
 ## Red Hat Enterprise Linux Development Edition
 
-* Nat Connect
-* Ping Google
+* NAT Connect
+* ping Google
 
-* Register and attach a subcription
+* Register and attach a subscription
 ```sh
 subscription-manager register
 ```
